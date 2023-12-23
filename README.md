@@ -1,4 +1,4 @@
-# OS-EEAUTH
+#  GitHashingExercise
 
 This project is for the class of Operating Systems 2023-2024 in Electrical and Computer Engineering at the Aristortle University of Thessaloniki.
 The questions are as follows
